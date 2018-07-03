@@ -2,7 +2,6 @@ import React, { Component, ReactFragment } from 'react';
 import { Col, Button } from 'reactstrap';
 import './FullPost.css';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
 import { connect } from 'react-redux';
 import * as actionCreators from './../../store/actions';
 

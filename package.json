@@ -4,13 +4,17 @@
   "private": true,
   "homepage": "https://versioncrowd.github.io/redux_piloteers/",
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.1",
+    "gh-pages": "^1.1.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-redux": "^5.0.6",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "1.0.13",
+    "reactstrap": "^6.2.0",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0",
-    "gh-pages": "^1.1.0"
+    "redux-thunk": "^2.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
